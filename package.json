@@ -1,0 +1,16 @@
+{
+  "name"         : "node-web-scrape",
+  "version"      : "0.0.1",
+  "description"  : "",
+  "main"         : "server.js",
+  "author"       : "",
+  "repository"   : {
+    "type" : "",
+    "url"  : ""
+  },
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
